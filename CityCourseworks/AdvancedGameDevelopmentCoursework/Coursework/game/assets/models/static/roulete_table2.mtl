@@ -1,0 +1,56 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Green_Top
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:SP Projects\\Exported\\Three Thieves\\Roulette table\\roulete_table_Green Table_normal.png
+map_Kd roulette-table\\textures\\roulete_table_Green_Table_color.png
+map_Ns D:SP Projects\\Exported\\Three Thieves\\Roulette table\\roulete_table_Green Table_rough.png
+refl D:SP Projects\\Exported\\Three Thieves\\Roulette table\\roulete_table_Green Table_metal.png
+
+newmtl PokerTable
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\city\\advanced game technology\\assessments\\models\\casino-poker-table\\textures\\STG07_Pokertable_UV Map_FromPS_02.png
+map_d E:\\Dropbox\\Dropbox\\creative endeavors\\Steel Town Gaming\\07 - Episode 7 Natalya Follows You\\900 3D Worlds\\400 Casino\\300 Textures\\PokerTable UVW\\STG07_Pokertable_UV Map_FromPS_02.png
+
+newmtl Table
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\city\\advanced game technology\\assessments\\milestone1\\game\\assets\\models\\static
+map_Kd roulette-table\\textures\\Table_Color.png
+map_Ns D:Blender\\Files\\Table_Rough.png
+refl D:Blender\\Files\\Table_Metal.png
+
+newmtl Wheel
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:Blender\\Files\\Wheel_Normal.png
+map_Kd roulette-table\\textures\\Wheel_Color.png
+map_Ns D:Blender\\Files\\Wheel_Rough.png
+refl D:Blender\\Files\\Wheel_Metal.png

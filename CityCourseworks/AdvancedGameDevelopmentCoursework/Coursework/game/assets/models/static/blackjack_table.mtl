@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl PokerTable
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:\\city\\advanced game technology\\assessments\\models\\casino-poker-table\\textures\\STG07_Pokertable_UV Map_FromPS_02.png
+map_d E:\\Dropbox\\Dropbox\\creative endeavors\\Steel Town Gaming\\07 - Episode 7 Natalya Follows You\\900 3D Worlds\\400 Casino\\300 Textures\\PokerTable UVW\\STG07_Pokertable_UV Map_FromPS_02.png
